@@ -1,0 +1,10 @@
+RECUPERATORIO VUE
+
+NOMBRE: ERICK ROJAS CORNEJO
+CI: 9210692 LP
+
+Pasos para iniciar el proyecto
+
+PASO 1: npm install
+PASO 2: json-server --watch db.json --port 3002         
+PASO 3: npm run serve                                   

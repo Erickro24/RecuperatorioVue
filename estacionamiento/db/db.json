@@ -1,0 +1,164 @@
+{
+    "empleados": [
+      {
+        "id": "1",
+        "nombre": "Juan Pérez",
+        "area": "Producción",
+        "vehiculo": "Automovil",
+        "placa": "ABC-123",
+        "color": "Rojo"
+      },
+      {
+        "id": "2",
+        "nombre": "Maria Gomez",
+        "area": "Finanzas",
+        "vehiculo": "Moto",
+        "placa": "XYZ-789",
+        "color": "Negro"
+      },
+      {
+        "id": "3",
+        "nombre": "Carlos López",
+        "area": "Ventas",
+        "vehiculo": "Camioneta",
+        "placa": "JKL-456",
+        "color": "Blanco"
+      },
+      {
+        "id": "4",
+        "nombre": "Ana Torres",
+        "area": "Recursos Humanos",
+        "vehiculo": "Automovil",
+        "placa": "MNO-987",
+        "color": "Azul"
+      },
+      {
+        "id": "5",
+        "nombre": "Roberto Díaz",
+        "area": "Logística",
+        "vehiculo": "Moto",
+        "placa": "PQR-321",
+        "color": "Verde"
+      },
+      {
+        "id": "6",
+        "nombre": "Sofía Méndez",
+        "area": "Producción",
+        "vehiculo": "Automovil",
+        "placa": "STU-654",
+        "color": "Gris"
+      },
+      {
+        "id": "7",
+        "nombre": "Javier Castillo",
+        "area": "Ventas",
+        "vehiculo": "Moto",
+        "placa": "VWX-741",
+        "color": "Negro"
+      },
+      {
+        "id": "8",
+        "nombre": "Elena Ramírez",
+        "area": "Finanzas",
+        "vehiculo": "Moto",
+        "placa": "YZA-852",
+        "color": "Blanco"
+      },
+      {
+        "id": "9",
+        "nombre": "Pablo Fernández",
+        "area": "Producción",
+        "vehiculo": "Automovil",
+        "placa": "BCD-963",
+        "color": "Rojo"
+      },
+      {
+        "id": "10",
+        "nombre": "Marta Suárez",
+        "area": "Recursos Humanos",
+        "vehiculo": "Moto",
+        "placa": "EFG-159",
+        "color": "Azul"
+      },
+      {
+        "id": "11",
+        "nombre": "Diego Herrera",
+        "area": "Logística",
+        "vehiculo": "Camioneta",
+        "placa": "HIJ-753",
+        "color": "Verde"
+      },
+      {
+        "id": "12",
+        "nombre": "Natalia Ruiz",
+        "area": "Ventas",
+        "vehiculo": "Automovil",
+        "placa": "KLM-357",
+        "color": "Gris"
+      },
+      {
+        "id": "13",
+        "nombre": "Francisco Vega",
+        "area": "Producción",
+        "vehiculo": "Moto",
+        "placa": "NOP-258",
+        "color": "Negro"
+      },
+      {
+        "id": "14",
+        "nombre": "Patricia Gutiérrez",
+        "area": "Finanzas",
+        "vehiculo": "Camioneta",
+        "placa": "QRS-369",
+        "color": "Blanco"
+      },
+      {
+        "id": "15",
+        "nombre": "Ricardo Mendoza",
+        "area": "Recursos Humanos",
+        "vehiculo": "Automovil",
+        "placa": "TUV-147",
+        "color": "Rojo"
+      },
+      {
+        "id": "16",
+        "nombre": "Lorena Chávez",
+        "area": "Logística",
+        "vehiculo": "Moto",
+        "placa": "WXY-951",
+        "color": "Azul"
+      },
+      {
+        "id": "17",
+        "nombre": "Gustavo Salinas",
+        "area": "Producción",
+        "vehiculo": "Camioneta",
+        "placa": "ZAB-123",
+        "color": "Verde"
+      },
+      {
+        "id": "18",
+        "nombre": "Verónica Tapia",
+        "area": "Ventas",
+        "vehiculo": "Automovil",
+        "placa": "CDE-456",
+        "color": "Gris"
+      },
+      {
+        "id": "19",
+        "nombre": "Fernando Castro",
+        "area": "Finanzas",
+        "vehiculo": "Moto",
+        "placa": "FGH-789",
+        "color": "Negro"
+      },
+      {
+        "id": "20",
+        "nombre": "Clara Ortiz Rojas",
+        "area": "Recursos Humanos",
+        "vehiculo": "Moto",
+        "placa": "IJK-321",
+        "color": "Blanco"
+      }
+    ]
+  }
